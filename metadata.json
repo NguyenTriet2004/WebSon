@@ -1,0 +1,6 @@
+{
+  "name": "Colora Paint",
+  "description": "Website giới thiệu và bán sơn cao cấp Colora Paint, tích hợp bảng màu online trực quan và bộ tính năng tính lượng sơn, phối màu tiện ích.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
